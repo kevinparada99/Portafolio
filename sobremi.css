@@ -640,3 +640,16 @@ input{
   color: #05ada1;
   padding-right: 40px;
 }
+
+
+
+@media screen and (max-width: 500px){
+  .Sobremi{
+    margin-left: 15px;
+    font-size: 20px;
+    width: 80%;
+
+  }
+
+}
+
