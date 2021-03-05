@@ -641,8 +641,6 @@ input{
   padding-right: 40px;
 }
 
-
-
 @media screen and (max-width: 500px){
   .Sobremi{
     margin-left: 15px;
@@ -653,3 +651,24 @@ input{
 
 }
 
+.mifoto{
+  width: 200px;
+  height: 200px;
+  margin: 0px 555px 10px;
+}
+
+.info{
+  margin: 0px 555px 10px;
+}
+
+@media screen and (max-width: 500px){
+  .mifoto{
+    width: 200px;
+    height: 200px;
+    margin: 0px 55px 10px;
+  }
+  .info{
+    margin: 52px 55px 10px;
+  }
+
+}
