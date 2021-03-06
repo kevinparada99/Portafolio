@@ -1,7 +1,4 @@
-$(document).ready(function(){
-  $('#slider').fadeIn('slow').delay(200);
-  $("#sticker").sticky({topSpacing:0});
-});
+
 
 //https://dribbble.com/shots/3581904-HEALTHEX-Day-01
 
